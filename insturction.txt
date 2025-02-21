@@ -1,0 +1,14 @@
+Used conda venv in this project.
+Since it used mediapipe, which requires py3.11
+
+
+To activate conda venv: (ALL future mediapipe project can use this!)
+conda activate myenv_3_11
+
+
+To install:
+conda install <package_name>     //mediapipe
+or
+pip install       //also worked:  3.11.11
+
+
